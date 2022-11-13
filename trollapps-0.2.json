@@ -1,20 +1,20 @@
 [
   {
-    "id": 1,
+    "id": 8,
     "title": "Apps Manager",
     "urlimg": "https://cdn.discordapp.com/attachments/969879614379921418/1040717535785533563/AppsManager.png",
     "link": "apple-magnifier://install?url=https://tigisoftware.com/download/AppsManager_1.7.0.ipa",
-    "description": "备份应用程序数据：备份整个应用程序数据，包括所有保存的文件、设置和存储在密钥链中的数据。还原AppData：还原应用程序数据。擦除应用数据：擦除应用程序数据，包括所有文件和设置。快速打开应用程序容器、文档容器或应用程序组。导入/导出备份。您可以使用它将应用程序数据从您的设备传输到其他设备。",
+    "description": "备份应用程序数据：备份整个应用程序数据，包括所有保存的文件、设置和存储在密钥链中的数据。还原AppData：还原应用程序数据。擦除应用数据：擦除应用程序数据，包括所有文件和设置。快速打开应用程序容器、文档容器或应用程序组。导入/导出备份。您可以使用它将应用程序数据从设备传输到其他设备。",
     "url": "https://tigisoftware.com/download/AppsManager_1.7.0.ipa",
     "bundleid": "com.tigisoftware.ADManager",
     "completed": false
   },
   {
     "id": 2,
-    "title": "Filza",
-    "urlimg": "https://cdn.discordapp.com/attachments/969879614379921418/1040718689001017405/Filza.png",
+    "title": "Filza_3.9.8",
+    "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/Filza.png",
     "link": "apple-magnifier://install?url=https://tigisoftware.com/download/Filza_NoURLScheme_3.9.8.ipa",
-    "description": "使用列表视图或网格视图浏览文件和文件夹。使用强大的查看器查看/编辑文件，包括：媒体播放器、plist编辑器、十六进制编辑器、文本编辑器。Filza还可以查看办公文件：word、excel、powerpoint。使用Air Browser在电脑和设备之间共享文件。终端，允许执行shell脚本和控制台应用程序。轻松管理iPhone音乐库，导入/导出/重命名/删除。安装程序，可以查看详细信息，安装或提取IPA包和DEB包。管理应用程序，列出所有已安装的应用程序，卸载或安装应用程序。音乐库：管理音乐库，导入/导出/重命名/删除与正常文件相同。创建DEB文件，管理文件关联和查看器等。",
+    "description": "Explore files and folders with list view or grid view. View/edit files with powerful viewers, includes: media player, plist editor, hex editor, text editor. Filza can also view office files: word, excel, powerpoint. Sharing files between computer and your device with Air Browser. Terminal, allow execute shell scripts and console app. Manage iPhone music library easily, import/export/rename/delete. Installer, can view details, install or extract IPA package and DEB package. Manage applications, list all installed applications, uninstall or install apps. Music library: Manage music library, import/export/rename/delete just same as normal files. Create DEB file, Manage file associations and viewers and etc.",
     "url": "https://tigisoftware.com/download/Filza_NoURLScheme_3.9.8.ipa",
     "bundleid": "com.tigisoftware.Filza",
     "completed": false
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "title": "TrollTools",
-    "urlimg": "https://cdn.discordapp.com/attachments/969879614379921418/1040894605249490954/TrollUtils.png",
+    "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/TrollUtils.png",
     "link": "apple-magnifier://install?url=https://github.com/sourcelocation/TrollTools/releases/download/2.1.2/TrollTools-2.1.2.tipa",
     "description": "TrollTools - Revolutionizing iOS 15 customisation.",
     "url": "https://github.com/sourcelocation/TrollTools/releases/download/2.1.2/TrollTools-2.1.2.tipa",
@@ -70,9 +70,9 @@
     "completed": false
   },
   {
-    "id": 8,
+    "id": 1,
     "title": "TrollNonce",
-    "urlimg": "https://media.discordapp.net/attachments/969879614379921418/1040895655389970432/TrollNonce.png",
+    "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/TrollNonce.png",
     "link": "apple-magnifier://install?url=https://github.com/opa334/TrollNonce/releases/latest/download/TrollNonce.tipa",
     "description": "Nonce Setter for 15.0 - 15.1.1 (A10-A15) and 15.2-15.5b4 (A12+, not all device / version combinations supported atm), only works when installed through TrollStore 1.0.9 or newer.",
     "url": "https://github.com/opa334/TrollNonce/releases/latest/download/TrollNonce.tipa",
@@ -82,10 +82,10 @@
   {
     "id": 9,
     "title": "DowngradeApp",
-    "urlimg": "https://media.discordapp.net/attachments/969879614379921418/1040895655389970432/TrollNonce.png",
-    "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/DowngradeApp_1.1.3_TS.ipa",
+    "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/DowngradeApp.png",
+    "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore%E5%AE%98%E6%96%B9%E5%AE%89%E8%A3%85/Trollstore%E5%AE%89%E8%A3%85%E5%BA%94%E7%94%A8/DowngradeApp_1.1.3_TS.ipa",
     "description": "应用降级app",
-    "url": "https://pan.agricu.cn/d/Trollstore-ipa/DowngradeApp_1.1.3_TS.ipa",
+    "url": "https://pan.agricu.cn/d/Trollstore%E5%AE%98%E6%96%B9%E5%AE%89%E8%A3%85/Trollstore%E5%AE%89%E8%A3%85%E5%BA%94%E7%94%A8/DowngradeApp_1.1.3_TS.ipa",
     "bundleid": "com.netskao.downgradeapp",
     "completed": false
   }
