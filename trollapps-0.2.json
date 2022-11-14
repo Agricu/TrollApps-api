@@ -4,16 +4,7 @@
     "title": "Filza_3.9.8",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/Filza.png",
     "link": "apple-magnifier://install?url=https://tigisoftware.com/download/Filza_NoURLScheme_3.9.8.ipa",
-    "description": "使用列表视图或网格视图浏览文件和文件夹。查看/编辑文件与强大的浏览器，
-    包括:媒体播放器，plist编辑器，十六进制编辑器，文本编辑器。
-    Filza还可以查看office文件:word、excel、powerpoint。
-    使用Air浏览器在计算机和设备之间共享文件。
-    终端，允许执行外壳脚本和控制台应用程序。
-    轻松管理iPhone音乐库，导入/导出/重命名/删除。
-    安装程序，可以查看详情，安装或提取IPA包和DEB包。
-    管理应用程序，列出所有已安装的应用程序，卸载或安装应用程序。
-    音乐库:管理音乐库，导入/导出/重命名/删除就像普通文件一样。
-    创建DEB文件，管理文件关联和浏览器等。",
+    "description": "管理文件与编辑文件的强大的文件管理器。",
     "url": "https://tigisoftware.com/download/Filza_NoURLScheme_3.9.8.ipa",
     "bundleid": "com.tigisoftware.Filza",
     "completed": false
@@ -53,7 +44,7 @@
     "title": "Apps Manager",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/AppsManager.png",
     "link": "apple-magnifier://install?url=https://tigisoftware.com/download/AppsManager_1.7.0.ipa",
-    "description": "备份应用程序数据：备份整个应用程序数据，包括所有保存的文件、设置和存储在密钥链中的数据。还原AppData：还原应用程序数据。擦除应用数据：擦除应用程序数据，包括所有文件和设置。快速打开应用程序容器、文档容器或应用程序组。导入/导出备份。您可以使用它将应用程序数据从设备传输到其他设备。",
+    "description": "快速备份应用程序数据。",
     "url": "https://tigisoftware.com/download/AppsManager_1.7.0.ipa",
     "bundleid": "com.tigisoftware.ADManager",
     "completed": false
