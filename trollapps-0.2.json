@@ -101,11 +101,11 @@
   },
   {
     "id": 1,
-    "title": "TrollNonce",
+    "title": "TrollNonce_1.1.2",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/TrollNonce.png",
-    "link": "apple-magnifier://install?url=https://github.com/opa334/TrollNonce/releases/latest/download/TrollNonce.tipa",
+    "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/TrollNonce_1.1.2.tipa",
     "description": "iOS15.0-15.1.1（A10-A15）和15.2-15.5b4（A12+，并非所有设备/版本组合都支持atm）的Nonce Setter。",
-    "url": "https://github.com/opa334/TrollNonce/releases/latest/download/TrollNonce.tipa",
+    "url": "https://pan.agricu.cn/d/Trollstore-ipa/TrollNonce_1.1.2.tipa",
     "bundleid": "com.opa334.trollnonce",
     "completed": false
   },
