@@ -4,7 +4,16 @@
     "title": "Filza_3.9.8",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/Filza.png",
     "link": "apple-magnifier://install?url=https://tigisoftware.com/download/Filza_NoURLScheme_3.9.8.ipa",
-    "description": "使用列表视图或网格视图浏览文件和文件夹。查看/编辑文件与强大的浏览器，<br>包括:媒体播放器，plist编辑器，十六进制编辑器，文本编辑器。<br>Filza还可以查看office文件:word、excel、powerpoint。<br>使用Air浏览器在计算机和设备之间共享文件。终端，允许执行外壳脚本和控制台应用程序。轻松管理iPhone音乐库，导入/导出/重命名/删除。安装程序，可以查看详情，安装或提取IPA包和DEB包。管理应用程序，列出所有已安装的应用程序，卸载或安装应用程序。音乐库:管理音乐库，导入/导出/重命名/删除就像普通文件一样。创建DEB文件，管理文件关联和浏览器等。",
+    "description": "使用列表视图或网格视图浏览文件和文件夹。查看/编辑文件与强大的浏览器，
+    包括:媒体播放器，plist编辑器，十六进制编辑器，文本编辑器。
+    Filza还可以查看office文件:word、excel、powerpoint。
+    使用Air浏览器在计算机和设备之间共享文件。
+    终端，允许执行外壳脚本和控制台应用程序。
+    轻松管理iPhone音乐库，导入/导出/重命名/删除。
+    安装程序，可以查看详情，安装或提取IPA包和DEB包。
+    管理应用程序，列出所有已安装的应用程序，卸载或安装应用程序。
+    音乐库:管理音乐库，导入/导出/重命名/删除就像普通文件一样。
+    创建DEB文件，管理文件关联和浏览器等。",
     "url": "https://tigisoftware.com/download/Filza_NoURLScheme_3.9.8.ipa",
     "bundleid": "com.tigisoftware.Filza",
     "completed": false
