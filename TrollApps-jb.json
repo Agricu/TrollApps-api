@@ -1,7 +1,7 @@
 [
   {
-    "id": 10,
-    "title": "Taurine-1.1.6",
+    "id": 1,
+    "title": "Taurine",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/Taurine.png",
     "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/Taurine-1.1.6.ipa",
     "description": "Taurine-1.1.6版本越狱工具。",
@@ -11,8 +11,8 @@
     "completed": false
   },
   {
-    "id": 11,
-    "title": "unc0ver_8.0.2",
+    "id": 2,
+    "title": "unc0ver",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/unc0ver.png",
     "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/unc0ver_Release_8.0.2.ipa",
     "description": "unc0ver_8.0.2版本越狱工具",
@@ -22,8 +22,8 @@
     "completed": false
   },
   {
-    "id": 12,
-    "title": "unc0ver_6.2.0",
+    "id": 3,
+    "title": "unc0ver",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/unc0ver.png",
     "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/unc0ver_Release_6.2.0.ipa",
     "description": "unc0ver_6.2.0版本越狱工具",
@@ -33,8 +33,8 @@
     "completed": false
   },
   {
-    "id": 2,
-    "title": "Filza_3.9.8",
+    "id": 4,
+    "title": "Filza",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/Filza.png",
     "link": "apple-magnifier://install?url=https://tigisoftware.com/download/Filza_NoURLScheme_3.9.8.ipa",
     "description": "管理文件与编辑文件的强大的文件管理器。",
@@ -44,7 +44,7 @@
     "completed": false
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "TSSSaver",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/TSSSaver.png",
     "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/tsssaver.ipa",
@@ -55,7 +55,7 @@
     "completed": false
   },
   {
-    "id": 8,
+    "id": 6,
     "title": "Apps Manager",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/AppsManager.png",
     "link": "apple-magnifier://install?url=https://tigisoftware.com/download/AppsManager_1.7.0.ipa",
@@ -66,8 +66,8 @@
     "completed": false
   },
   {
-    "id": 6,
-    "title": "NetWorkManager_1.1-2",
+    "id": 7,
+    "title": "NetWorkManager",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/TrollUtils.png",
     "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/NetWorkManager_1.1-2.ipa",
     "description": "国行设备开启联网权限。",
@@ -77,8 +77,8 @@
     "completed": false
   },
   {
-    "id": 7,
-    "title": "WiFi-List_1.0",
+    "id": 8,
+    "title": "WiFi-List",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/WiFiList.png",
     "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/wifi_listTS.ipa",
     "description": "一款快速查看WiFi网络信息的APP。",
@@ -88,8 +88,8 @@
     "completed": false
   },
   {
-    "id": 1,
-    "title": "TrollNonce_1.1.2",
+    "id": 9,
+    "title": "TrollNonce",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/TrollNonce.png",
     "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/TrollNonce_1.1.2.tipa",
     "description": "iOS15.0-15.1.1（A10-A15）和15.2-15.5b4（A12+，并非所有设备/版本组合都支持atm）的Nonce Setter。",
@@ -99,8 +99,8 @@
     "completed": false
   },
   {
-    "id": 9,
-    "title": "DowngradeApp_1.1-6",
+    "id": 10,
+    "title": "DowngradeApp",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/DowngradeApp.png",
     "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/DowngradeApp_1.1-6.ipa",
     "description": "应用降级app，获取版本信息可选，其他选项。",
