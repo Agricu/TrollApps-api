@@ -31,11 +31,11 @@
   },
   {
     "id": 5,
-    "title": "Cardio",
-    "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/193304861-3eb9f323-8d9e-46d9-a539-26565a655832.png",
-    "link": "apple-magnifier://install?url=https://github.com/cisc0disco/Cardio/releases/download/1.1/Cardio.ipa",
+    "title": "IPSW_1.0",
+    "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/IPSW.png",
+    "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/IPSW_TS.ipa",
     "description": "App for changing apple pay images using CoreTrust bug that affects iOS 14.0 - 15.4.1 (15.5b4) using TrollStore.",
-    "url": "https://github.com/cisc0disco/Cardio/releases/download/1.1/Cardio.ipa",
+    "url": "https://pan.agricu.cn/d/Trollstore-ipa/IPSW_TS.ipa",
     "bundleid": "com.cisc0freak.cardio",
     "completed": false
   },
