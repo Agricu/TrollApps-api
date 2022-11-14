@@ -13,9 +13,9 @@
     "id": 3,
     "title": "TSSSaver",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/Santander.png",
-    "link": "apple-magnifier://install?url=https://cdn.discordapp.com/attachments/969879614379921418/1040724749917093981/Santander.ipa",
+    "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/tsssaver.ipa",
     "description": "一款不越狱保存设备的SHSH2文件至tsssaver服务器，仅支持A11及以下设备.",
-    "url": "https://cdn.discordapp.com/attachments/969879614379921418/1040724749917093981/Santander.ipa",
+    "url": "https://pan.agricu.cn/d/Trollstore-ipa/tsssaver.ipa",
     "bundleid": "com.1conan.tsssaver",
     "completed": false
   },
@@ -53,9 +53,9 @@
     "id": 6,
     "title": "NetWorkManager_1.1-2",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/TrollUtils.png",
-    "link": "apple-magnifier://install?url=https://github.com/sourcelocation/TrollTools/releases/download/2.1.2/TrollTools-2.1.2.tipa",
+    "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/NetWorkManager_1.1-2.ipa",
     "description": "国行设备开启联网权限",
-    "url": "https://github.com/sourcelocation/TrollTools/releases/download/2.1.2/TrollTools-2.1.2.tipa",
+    "url": "https://pan.agricu.cn/d/Trollstore-ipa/NetWorkManager_1.1-2.ipa",
     "bundleid": "com.netskao.networkmanager",
     "completed": false
   },
@@ -63,9 +63,9 @@
     "id": 7,
     "title": "WiFi-List_1.0",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/icon_256pt2x.png",
-    "link": "apple-magnifier://install?url=https://github.com/osy/Jitterbug/releases/latest/download/Jitterbug.ipa",
+    "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/wifi_listTS.ipa",
     "description": "一款快速查看WiFi网络信息的APP。",
-    "url": "https://github.com/osy/Jitterbug/releases/latest/download/Jitterbug.ipa",
+    "url": "https://pan.agricu.cn/d/Trollstore-ipa/wifi_listTS.ipa",
     "bundleid": "com.itaysoft.wifilist",
     "completed": false
   },
@@ -74,7 +74,7 @@
     "title": "TrollNonce",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/TrollNonce.png",
     "link": "apple-magnifier://install?url=https://github.com/opa334/TrollNonce/releases/latest/download/TrollNonce.tipa",
-    "description": "Nonce Setter for 15.0 - 15.1.1 (A10-A15) and 15.2-15.5b4 (A12+, not all device / version combinations supported atm), only works when installed through TrollStore 1.0.9 or newer.",
+    "description": "iOS15.0-15.1.1（A10-A15）和15.2-15.5b4（A12+，并非所有设备/版本组合都支持atm）的Nonce Setter，仅在通过TrollStore 1.0.9或更高版本安装时有效",
     "url": "https://github.com/opa334/TrollNonce/releases/latest/download/TrollNonce.tipa",
     "bundleid": "com.opa334.trollnonce",
     "completed": false
@@ -83,9 +83,9 @@
     "id": 9,
     "title": "DowngradeApp_1.1-6",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/DowngradeApp.png",
-    "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore%E5%AE%98%E6%96%B9%E5%AE%89%E8%A3%85/Trollstore%E5%AE%89%E8%A3%85%E5%BA%94%E7%94%A8/DowngradeApp_1.1.3_TS.ipa",
+    "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/DowngradeApp_1.1-6.ipa",
     "description": "应用降级app，获取版本信息可选，其他选项。",
-    "url": "https://pan.agricu.cn/d/Trollstore%E5%AE%98%E6%96%B9%E5%AE%89%E8%A3%85/Trollstore%E5%AE%89%E8%A3%85%E5%BA%94%E7%94%A8/DowngradeApp_1.1.3_TS.ipa",
+    "url": "hhttps://pan.agricu.cn/d/Trollstore-ipa/DowngradeApp_1.1-6.ipa",
     "bundleid": "com.netskao.downgradeapp",
     "completed": false
   }
