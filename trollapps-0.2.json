@@ -1,22 +1,24 @@
 [
   {
-    "id": 4,
-    "title": "QQ_8.5.0",
+    "id": 1,
+    "title": "QQ",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/QQ.png",
     "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/QQ_8.5.0.ipa",
     "description": "QQ净化注入，自行体会",
     "url": "https://pan.agricu.cn/d/Trollstore-ipa/QQ_8.5.0.ipa",
     "bundleid": "com.tencent.mqq",
+    "version": "8.5.0",
     "completed": false
   },
   {
-    "id": 5,
+    "id": 2,
     "title": "IPSW_1.0",
     "urlimg": "https://pan.agricu.cn/d/Trollstore-ipa/Img/ipa-img/IPSW.png",
     "link": "apple-magnifier://install?url=https://pan.agricu.cn/d/Trollstore-ipa/IPSW_TS.ipa",
     "description": "一款实时查看iOS验证是否开启的APP。",
     "url": "https://pan.agricu.cn/d/Trollstore-ipa/IPSW_TS.ipa",
     "bundleid": "com.cisc0freak.cardio",
+    "version": "1.0",
     "completed": false
   }
   
